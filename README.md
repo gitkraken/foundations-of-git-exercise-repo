@@ -11,6 +11,6 @@ Welcome! This is the sandbox repository for the [Foundations of Git](https://lea
   - If you connected with GitHub, select GitHub.com tab and use dropdown menu to select fork. Then clone to your machine.
   - If not connected with GitHub, use the "Clone with URL" option and paste the Clone URL from fork repo page on GitHub. Then clone to your machine
 
- 5. Success! Refer back to course lessons for exercises. 
+ 5. Success! Refer back to [course lessons](https://learn.gitkraken.com) for exercises. 
 
 
