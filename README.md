@@ -8,8 +8,9 @@ Welcome! This is the sandbox repository for the [Foundations of Git](https://lea
  2. Download [GitKraken Client](https://gitkraken.com)
  3. Connect with GitHub account (not required, but helpful)
  4. From New Tab, click the "Clone a repo" button
- 5a. If you connected with GitHub, select GitHub.com tab and use dropdown menu to select fork. Then clone to your machine.
- 5b. If not connected with GitHub, use the "Clone with URL" option and paste the Clone URL from fork repo page on GitHub. Then clone to your machine
- 6. Success! Refer back to course lessons for exercises. 
+  - If you connected with GitHub, select GitHub.com tab and use dropdown menu to select fork. Then clone to your machine.
+  - If not connected with GitHub, use the "Clone with URL" option and paste the Clone URL from fork repo page on GitHub. Then clone to your machine
+
+ 5. Success! Refer back to course lessons for exercises. 
 
 
