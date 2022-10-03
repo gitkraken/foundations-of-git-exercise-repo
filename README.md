@@ -4,7 +4,7 @@ Welcome! This is the sandbox repository for the [Foundations of Git](https://lea
 
 ## Cloning with GitKraken Client
  
- 1. Fork the repo on GitHub 
+ 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) the repo on GitHub 
  2. Download [GitKraken Client](https://gitkraken.com)
  3. Connect with GitHub account (not required, but helpful)
  4. From New Tab, click the "Clone a repo" button
