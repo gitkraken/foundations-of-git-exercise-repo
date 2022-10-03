@@ -14,3 +14,8 @@ Welcome! This is the sandbox repository for the [Foundations of Git](https://lea
  5. Success! Refer back to [course lessons](https://learn.gitkraken.com) for exercises. 
 
 
+## Resetting the repo
+
+Each exercise will provide instructions on how to reset the repo to the previous state.
+
+However, to completely reset the repo back to its original state, consider deleting your GitHub fork and your local copy of the repository on your machine. Then follow the instructions above to fork and clone the repo once more. 
