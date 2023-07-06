@@ -28,5 +28,9 @@ However, to completely reset the repo back to its original state, consider delet
 
 
 #Featuers
+<<<<<<< anotheone
 Adding new features in the repo
 >>>>>>> Adding new features
+=======
+Adding new features in the repo another pond
+>>>>>>> hey there
